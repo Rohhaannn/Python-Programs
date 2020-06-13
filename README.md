@@ -1,2 +1,2 @@
 # Python-Programs
-This folder contains some basic &amp; intermediate  level programs of python
+This folder contains some basic &amp; intermediate level programs of python
