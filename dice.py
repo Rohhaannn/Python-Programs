@@ -59,4 +59,4 @@ while(x=='y'):
         print('|  0      0  |')
         print('--------------')
         
-    x=raw_input('Roll Again? y or n\n')
+    x=input('Roll Again? y or n\n')
