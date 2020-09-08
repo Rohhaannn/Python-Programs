@@ -1,0 +1,8 @@
+I learned this code from Code_EduYear.
+
+before running this COVID TRACKER program make sure you have installed these following libraries
+
+1. COVID (open source library)
+2. matplotlib (for displaying data (write it as "matplotlib.pyplot" while using this in program))
+
+after installation of these two libraries, you are good to go.
